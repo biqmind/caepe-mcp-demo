@@ -6,7 +6,8 @@ This repo lets you test our **Caepe MCP server** directly from VS Code using Git
 
 ## ✅ Prerequisites
 
-- **VS Code version 1.100+** with GitHub Copilot Chat enabled
+- [Visual Studio Code](https://code.visualstudio.com/) **version 1.100+** with GitHub Copilot Chat enabled  
+- [Git CLI](https://git-scm.com/downloads) installed (latest version)
 - Access to the `caepe-mcp` server URL
 
 ---
@@ -16,7 +17,7 @@ This repo lets you test our **Caepe MCP server** directly from VS Code using Git
 1. **Clone this repo**:
 
    ```bash
-   git clone https://github.com/your-org/caepe-mcp-demo.git
+   git clone https://github.com/biqmind/caepe-mcp-demo.git
    cd caepe-mcp-demo
    ```
 
