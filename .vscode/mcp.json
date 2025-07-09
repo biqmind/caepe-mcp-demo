@@ -1,7 +1,11 @@
 {
   "servers": {
-    "Caepe MCP": {
-      "url": "https://mcp-dev.biqmind.sh/mcp"
+    "Caepe MCP Biqmind": {
+      "url": "http://localhost:3001/mcp",
+      "headers": {
+        "organization": "biqmind",
+        "server-url": "dev.biqmind.sh"
+      }
     }
   }
 }
