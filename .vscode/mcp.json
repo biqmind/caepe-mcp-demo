@@ -1,9 +1,9 @@
 {
   "servers": {
-    "Caepe MCP Biqmind": {
-      "url": "http://localhost:3001/mcp",
+    "Caepe MCP Test": {
+      "url": "https://mcp-dev.biqmind.sh/mcp",
       "headers": {
-        "organization": "biqmind",
+        "organization": "testco",
         "server-url": "dev.biqmind.sh"
       }
     }
