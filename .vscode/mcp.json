@@ -3,7 +3,7 @@
     "Caepe MCP Test": {
       "url": "https://mcp-dev.biqmind.sh/mcp",
       "headers": {
-        "organization": "testco",
+        "organization": "biqmind",
         "server-url": "dev.biqmind.sh"
       }
     }

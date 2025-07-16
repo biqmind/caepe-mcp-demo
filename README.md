@@ -2,6 +2,8 @@
 
 This repo lets you test our **Caepe MCP server** directly from VS Code using GitHub Copilot Chat.
 
+[![Install Caepe MCP Server](https://img.shields.io/badge/Install%20Caepe%20MCP-%232297E0?logo=visualstudiocode&style=for-the-badge)](vscode:mcp/install?%7B%22name%22%3A%22Caepe%20MCP%20Server%22%2C%22url%22%3A%22https%3A%2F%2Fmcp-dev.biqmind.sh%2Fmcp%2F%22%2C%22headers%22%3A%7B%22organization%22%3A%22biqmind%22%2C%22server-url%22%3A%22dev.biqmind.sh%22%7D%7D)
+
 ---
 
 ## ✅ Prerequisites
