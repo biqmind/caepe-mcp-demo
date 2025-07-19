@@ -1,6 +1,6 @@
 {
   "servers": {
-    "Caepe MCP Test": {
+    "Caepe MCP Local": {
       "url": "https://mcp-dev.biqmind.sh/mcp",
       "headers": {
         "organization": "biqmind",
